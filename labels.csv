@@ -4071,7 +4071,6 @@ final_dataset/test/clean/clean_test Image 2020-10-10 at 12.22.02 PM (8).jpeg,0
 final_dataset/test/clean/clean_test Image 2020-05-12 at 9.01.11 AM (5).jpeg,0
 final_dataset/test/dirty/5483.full.jpeg,1
 final_dataset/test/dirty/CfbP1mmW4AALouK.jpeg,1
-final_dataset/test/dirty/1575.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-27 at 5.46.09 PM (2).jpeg,1
 final_dataset/test/dirty/5169.jpeg,1
 final_dataset/test/dirty/f29baaa55acaaac374ca9d24fcf13702852e1376.temp.jpeg,1
@@ -4096,37 +4095,29 @@ final_dataset/test/dirty/dirty_test200469.jpg,1
 final_dataset/test/dirty/76ac66468698c7b3a6cfd8b6bee9671a9cd0c2bc.temp.jpeg,1
 final_dataset/test/dirty/a505e38403d4b9388b32939bc7c543d612701e4d.temp.jpeg,1
 final_dataset/test/dirty/1281.jpeg,1
-final_dataset/test/dirty/7293.full.jpeg,1
 final_dataset/test/dirty/dirty_test100361.jpg,1
-final_dataset/test/dirty/3403.full.jpeg,1
 final_dataset/test/dirty/8018.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.08 AM.jpeg,1
 final_dataset/test/dirty/4709.full.jpeg,1
-final_dataset/test/dirty/1540.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.39.54 AM (3).jpeg,1
-final_dataset/test/dirty/5363.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.54 AM (1).jpeg,1
 final_dataset/test/dirty/dirty_test200865.jpg,1
 final_dataset/test/dirty/dirty_test901417.jpg,1
 final_dataset/test/dirty/a9730af0514a1e34cb14604e39362927d390f5de.temp.jpeg,1
-final_dataset/test/dirty/1281.full.jpeg,1
 final_dataset/test/dirty/3598.full.jpeg,1
 final_dataset/test/dirty/a70d72fa189fc81dda6fa32007a18f250592a8b8.temp.jpeg,1
 final_dataset/test/dirty/dirty_test701393.jpg,1
 final_dataset/test/dirty/5282.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.48.12 PM (13).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.06 AM (1).jpeg,1
-final_dataset/test/dirty/3001.full.jpeg,1
 final_dataset/test/dirty/1835.full.jpeg,1
 final_dataset/test/dirty/273190356ceed3ef2d25c81dd1cc812571f0bbc6.temp.jpeg,1
 final_dataset/test/dirty/4703.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.51 AM (5).jpeg,1
 final_dataset/test/dirty/1787.full.jpeg,1
-final_dataset/test/dirty/1578.full.jpeg,1
 final_dataset/test/dirty/asdfasf.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.06 AM (3).jpeg,1
 final_dataset/test/dirty/dirty_test901561.jpg,1
-final_dataset/test/dirty/1819.full.jpeg,1
 final_dataset/test/dirty/dirty_test901213.jpg,1
 final_dataset/test/dirty/dirty_test100001.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 2.37.12 PM.jpeg,1
@@ -4138,22 +4129,16 @@ final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.56.49 PM (7).jpeg,1
 final_dataset/test/dirty/dirty_test901429.jpg,1
 final_dataset/test/dirty/BtpdBenIMAA9d_Y.jpeg,1
 final_dataset/test/dirty/4043.full.jpeg,1
-final_dataset/test/dirty/1499.full.jpeg,1
 final_dataset/test/dirty/4934.full.jpeg,1
 final_dataset/test/dirty/12339470_754107781386588_6902910112083208802_o.jpg,1
 final_dataset/test/dirty/dirty_test901165.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.39.52 AM (2).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-25 at 7.42.34 PM.jpeg,1
 final_dataset/test/dirty/dirty_test200481.jpg,1
-final_dataset/test/dirty/2874.full.jpeg,1
 final_dataset/test/dirty/3569.full.jpeg,1
-final_dataset/test/dirty/1270.full.jpeg,1
 final_dataset/test/dirty/dirty_test200457.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-28 at 7.40.41 PM (1).jpeg,1
-final_dataset/test/dirty/4853.full.jpeg,1
-final_dataset/test/dirty/4124.full.jpeg,1
 final_dataset/test/dirty/0000811427.jpg,1
-final_dataset/test/dirty/5534.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.47.00 PM (7).jpeg,1
 final_dataset/test/dirty/1584.full.jpeg,1
 final_dataset/test/dirty/3130.full.jpeg,1
@@ -4175,17 +4160,14 @@ final_dataset/test/dirty/dirty_test Image 2020-05-10 at 4.59.14 PM.jpeg,1
 final_dataset/test/dirty/279.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-29 at 6.16.16 PM.jpeg,1
 final_dataset/test/dirty/0003762180.jpg,1
-final_dataset/test/dirty/1827.full.jpeg,1
 final_dataset/test/dirty/559749333.JPG,1
 final_dataset/test/dirty/dirty_test800685.jpg,1
 final_dataset/test/dirty/5290.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.44.11 PM (19).jpeg,1
 final_dataset/test/dirty/dirty_test701009.jpg,1
 final_dataset/test/dirty/dirty_test701021.jpg,1
-final_dataset/test/dirty/2001.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 9.35.03 AM.jpeg,1
 final_dataset/test/dirty/dirty_test200889.jpg,1
-final_dataset/test/dirty/571.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.10 AM (2).jpeg,1
 final_dataset/test/dirty/1144.full.jpeg,1
 final_dataset/test/dirty/.DS_Store,1
@@ -4194,7 +4176,6 @@ final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.52 AM (6).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.44.11 PM (9).jpeg,1
 final_dataset/test/dirty/51f73668dd6c6.jpg,1
 final_dataset/test/dirty/dirty_test700841.jpg,1
-final_dataset/test/dirty/2020.full.jpeg,1
 final_dataset/test/dirty/3675.jpeg,1
 final_dataset/test/dirty/dirty_test100373.jpg,1
 final_dataset/test/dirty/4430.full.jpeg,1
@@ -4207,7 +4188,6 @@ final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.48.12 PM (4).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.51 AM (1).jpeg,1
 final_dataset/test/dirty/bf0a0ed4d718a12430a046dbe2e7661be6eb830c.temp.jpeg,1
 final_dataset/test/dirty/BmmOEz2CYAIJsoo.jpeg,1
-final_dataset/test/dirty/1745.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.52 AM (4).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.10 AM.jpeg,1
 final_dataset/test/dirty/C3vePcQWMAA9adR.jpeg,1
@@ -4215,22 +4195,18 @@ final_dataset/test/dirty/4688.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.50 AM.jpeg,1
 final_dataset/test/dirty/5172.full.jpeg,1
 final_dataset/test/dirty/AlsvBGuCIAA5ste.jpeg,1
-final_dataset/test/dirty/2752.full.jpeg,1
 final_dataset/test/dirty/8b041aa321c0d52df7d63e023b4df261f57b2dc5.temp.jpeg,1
 final_dataset/test/dirty/4754.full.jpeg,1
 final_dataset/test/dirty/dirty_test701381.jpg,1
-final_dataset/test/dirty/402.full.jpeg,1
 final_dataset/test/dirty/dirty_test00937.jpg,1
 final_dataset/test/dirty/0dd71fdd2db2d0beb278eddb5692a156fb79a40c.temp.jpeg,1
 final_dataset/test/dirty/c71d8ca91d1bdc0268e08e65dfa5fe0f4c011b39.temp.jpeg,1
-final_dataset/test/dirty/2254.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.52 AM (6).jpeg,1
 final_dataset/test/dirty/111e0266037427a8d0e60f07a30f61c682e3a3f9.temp.jpeg,1
 final_dataset/test/dirty/1582.full.jpeg,1
 final_dataset/test/dirty/asdfasdfsdf.jpeg,1
 final_dataset/test/dirty/dirty_test200901.jpg,1
 final_dataset/test/dirty/dirty_test901573.jpg,1
-final_dataset/test/dirty/2018.full.jpeg,1
 final_dataset/test/dirty/dirty_test300901.jpg,1
 final_dataset/test/dirty/dirty_test901201.jpg,1
 final_dataset/test/dirty/dirty_test100013.jpg,1
@@ -4238,7 +4214,6 @@ final_dataset/test/dirty/1351fff12c1ae612f595ee318a3a7928ee71e74a.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-08 at 2.24.45 PM (7).jpeg,1
 final_dataset/test/dirty/10086.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-17 at 10.28.59 PM (1).jpeg,1
-final_dataset/test/dirty/1194.full.jpeg,1
 final_dataset/test/dirty/4593.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.06 AM (5).jpeg,1
 final_dataset/test/dirty/8019.jpeg,1
@@ -4247,38 +4222,31 @@ final_dataset/test/dirty/dirty_test200493.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.51 AM (3).jpeg,1
 final_dataset/test/dirty/dirty_test900241.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-27 at 12.31.47 PM.jpeg,1
-final_dataset/test/dirty/440.full.jpeg,1
-final_dataset/test/dirty/1769.full.jpeg,1
 final_dataset/test/dirty/dirty_test901177.jpg,1
 final_dataset/test/dirty/1845.jpeg,1
 final_dataset/test/dirty/593319.jpg,1
 final_dataset/test/dirty/513815df74062b4799cf905feeb32af4861fbd60.temp.jpeg,1
 final_dataset/test/dirty/2076.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.51 AM.jpeg,1
-final_dataset/test/dirty/846.full.jpeg,1
 final_dataset/test/dirty/3995.full.jpeg,1
 final_dataset/test/dirty/dirty_test901189.jpg,1
 final_dataset/test/dirty/dirty_test300445.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.49 AM.jpeg,1
 final_dataset/test/dirty/2488.full.jpeg,1
-final_dataset/test/dirty/1781.full.jpeg,1
 final_dataset/test/dirty/basura_contenedor_lateja.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-11 at 12.05.35 PM (4).jpeg,1
 final_dataset/test/dirty/1324.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.52 AM (4).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-11 at 12.03.55 PM (4).jpeg,1
-final_dataset/test/dirty/5441.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.51 AM (1).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-17 at 10.31.08 PM (1).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.39.51 AM (3).jpeg,1
 final_dataset/test/dirty/5168.jpeg,1
-final_dataset/test/dirty/5569.full.jpeg,1
 final_dataset/test/dirty/59b4dde00aa287d.jpeg,1
 final_dataset/test/dirty/0003717723.jpg,1
 final_dataset/test/dirty/dirty_test701369.jpg,1
 final_dataset/test/dirty/Cg6WapsW0AIoov9.jpeg,1
 final_dataset/test/dirty/3948.full.jpeg,1
-final_dataset/test/dirty/1660.full.jpeg,1
 final_dataset/test/dirty/1495.full.jpeg,1
 final_dataset/test/dirty/5663f1fd40b7ba071bb40be1e57f034212492986.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.52 AM (1).jpeg,1
@@ -4293,12 +4261,10 @@ final_dataset/test/dirty/1024.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.48.12 PM (10).jpeg,1
 final_dataset/test/dirty/644c51e04753e4b05014650b25eb1894cba2927c.temp.jpeg,1
 final_dataset/test/dirty/8a046004d7f399893e3d85de1292c73b01e93217.temp.jpeg,1
-final_dataset/test/dirty/1574.full.jpeg,1
 final_dataset/test/dirty/970.full.jpeg,1
 final_dataset/test/dirty/2950.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.51 AM (4).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.48.12 PM (1).jpeg,1
-final_dataset/test/dirty/1024.full.jpeg,1
 final_dataset/test/dirty/885.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.52 AM.jpeg,1
 final_dataset/test/dirty/dirty_test00601.jpg,1
@@ -4310,13 +4276,11 @@ final_dataset/test/dirty/1005.full.jpeg,1
 final_dataset/test/dirty/1375.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.52 AM (3).jpeg,1
 final_dataset/test/dirty/dirty_test900805.jpg,1
-final_dataset/test/dirty/1820.full.jpeg,1
 final_dataset/test/dirty/6a38dffadada495e14875895ea6141eba765e0b1.temp.jpeg,1
 final_dataset/test/dirty/dirty_test00205.jpg,1
 final_dataset/test/dirty/1541.full.jpeg,1
 final_dataset/test/dirty/4152.full.jpeg,1
 final_dataset/test/dirty/dirty_99.jpg,1
-final_dataset/test/dirty/2632.full.jpeg,1
 final_dataset/test/dirty/dirty_test700013.jpg,1
 final_dataset/test/dirty/c4a24fedd36b36cceea846ce7707f001631b68da.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.47.00 PM (4).jpeg,1
@@ -4329,9 +4293,7 @@ final_dataset/test/dirty/dirty_test Image 2020-12-28 at 7.40.41 PM (2).jpeg,1
 final_dataset/test/dirty/969.full.jpeg,1
 final_dataset/test/dirty/dirty_test00373.jpg,1
 final_dataset/test/dirty/1862.full.jpeg,1
-final_dataset/test/dirty/1579.full.jpeg,1
 final_dataset/test/dirty/621.jpeg,1
-final_dataset/test/dirty/1115.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 8.18.44 AM.jpeg,1
 final_dataset/test/dirty/dirty_test200637.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.52 AM (1).jpeg,1
@@ -4353,7 +4315,6 @@ final_dataset/test/dirty/59b578137fcbe.jpeg,1
 final_dataset/test/dirty/dirty_test300193.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-08 at 2.21.53 PM (2).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-28 at 11.24.37 AM.jpeg,1
-final_dataset/test/dirty/5592.full.jpeg,1
 final_dataset/test/dirty/2473.full.jpeg,1
 final_dataset/test/dirty/5586.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.52 AM (3).jpeg,1
@@ -4361,13 +4322,10 @@ final_dataset/test/dirty/C6pXI0FWwAAJNAL.jpeg,1
 final_dataset/test/dirty/6503.jpeg,1
 final_dataset/test/dirty/dirty_test700589.jpg,1
 final_dataset/test/dirty/articulos36_26619.jpg,1
-final_dataset/test/dirty/1700.full.jpeg,1
 final_dataset/test/dirty/2c0cf982e4f4f68748945505a882d3d8e9fadd14.temp.jpeg,1
 final_dataset/test/dirty/0003717662-666x388.jpg,1
 final_dataset/test/dirty/759.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.39.52 AM (1).jpeg,1
-final_dataset/test/dirty/5535.full.jpeg,1
-final_dataset/test/dirty/4828.full.jpeg,1
 final_dataset/test/dirty/925.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.51 AM (2).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.48.12 PM (7).jpeg,1
@@ -4375,8 +4333,6 @@ final_dataset/test/dirty/7625.full.jpeg,1
 final_dataset/test/dirty/d7aab4839716b95312154a840cbf0ac8b824316a.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.52 AM.jpeg,1
 final_dataset/test/dirty/1db8ac16072a6a92fde32f0540e42be427238097.temp.jpeg,1
-final_dataset/test/dirty/1659.full.jpeg,1
-final_dataset/test/dirty/1974.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-08 at 2.19.00 PM (2).jpeg,1
 final_dataset/test/dirty/4410.full.jpeg,1
 final_dataset/test/dirty/8818.jpeg,1
@@ -4386,10 +4342,8 @@ final_dataset/test/dirty/dirty_test300949.jpg,1
 final_dataset/test/dirty/dirty_test300961.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.06 AM (4).jpeg,1
 final_dataset/test/dirty/5146.full.jpeg,1
-final_dataset/test/dirty/1286.full.jpeg,1
 final_dataset/test/dirty/21e7eec21c2f2356286c3406126c3ea3474239ab.temp.jpeg,1
 final_dataset/test/dirty/306f1e4a986a28535ca7a50a2302263dcb1845d4.temp.jpeg,1
-final_dataset/test/dirty/1309.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.37.13 PM.jpeg,1
 final_dataset/test/dirty/Bmomo4bCcAAgTC7.jpeg,1
 final_dataset/test/dirty/B5yc020CMAMyODM.jpeg,1
@@ -4397,11 +4351,8 @@ final_dataset/test/dirty/dirty_test Image 2020-12-26 at 6.48.52 PM.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.42.50 AM.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.45.06 AM.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.54 AM (4).jpeg,1
-final_dataset/test/dirty/3154.full.jpeg,1
 final_dataset/test/dirty/1286.jpeg,1
 final_dataset/test/dirty/20160803225753-basuracolumna-0.jpg,1
-final_dataset/test/dirty/1616.full.jpeg,1
-final_dataset/test/dirty/1799.full.jpeg,1
 final_dataset/test/dirty/3690.jpeg,1
 final_dataset/test/dirty/20101123JC_1004.jpg,1
 final_dataset/test/dirty/dirty_test00613.jpg,1
@@ -4413,10 +4364,8 @@ final_dataset/test/dirty/dirty_test Image 2020-12-27 at 11.49.48 PM.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.52 AM (5).jpeg,1
 final_dataset/test/dirty/dirty_test00217.jpg,1
 final_dataset/test/dirty/4577.full.jpeg,1
-final_dataset/test/dirty/1955.full.jpeg,1
 final_dataset/test/dirty/dirty_test700229.jpg,1
 final_dataset/test/dirty/4c2327943ea54cf90a59fc0252b3d6cd0a21adf8.temp.jpeg,1
-final_dataset/test/dirty/621.full.jpeg,1
 final_dataset/test/dirty/721189.png,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.10 AM (1).jpeg,1
 final_dataset/test/dirty/5398.full.jpeg,1
@@ -4441,39 +4390,28 @@ final_dataset/test/dirty/993.full.jpeg,1
 final_dataset/test/dirty/2594.full.jpeg,1
 final_dataset/test/dirty/7935.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.10 AM (3).jpeg,1
-final_dataset/test/dirty/5533.full.jpeg,1
 final_dataset/test/dirty/dirty_test00361.jpg,1
-final_dataset/test/dirty/1060.full.jpeg,1
 final_dataset/test/dirty/3586.full.jpeg,1
-final_dataset/test/dirty/4703.full.jpeg,1
 final_dataset/test/dirty/dirty_test700613.jpg,1
-final_dataset/test/dirty/2019.full.jpeg,1
 final_dataset/test/dirty/98a4aac9c8b86f84f5b7d9bcc76cfc4a6a05b4cf.temp.jpeg,1
 final_dataset/test/dirty/dirty_test300433.jpg,1
 final_dataset/test/dirty/c4c768073bec12a8ee632ca02aa8d1de1484c3bd.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-17 at 10.28.59 PM (2).jpeg,1
 final_dataset/test/dirty/CFXmP-oWgAAeysW.jpeg,1
 final_dataset/test/dirty/1794.full.jpeg,1
-final_dataset/test/dirty/1107.full.jpeg,1
 final_dataset/test/dirty/dirty_test300397.jpg,1
 final_dataset/test/dirty/2520.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.39.54 AM (4).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.52 AM (5).jpeg,1
-final_dataset/test/dirty/5568.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-17 at 10.31.08 PM.jpeg,1
 final_dataset/test/dirty/440.jpeg,1
-final_dataset/test/dirty/1511.full.jpeg,1
 final_dataset/test/dirty/dirty_test300181.jpg,1
 final_dataset/test/dirty/4785.full.jpeg,1
-final_dataset/test/dirty/847.full.jpeg,1
 final_dataset/test/dirty/4099.full.jpeg,1
-final_dataset/test/dirty/2440.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.48.12 PM (5).jpeg,1
 final_dataset/test/dirty/81113.jpg,1
 final_dataset/test/dirty/AyuvD9eCYAAzSvX.jpeg,1
-final_dataset/test/dirty/1780.full.jpeg,1
 final_dataset/test/dirty/1864.full.jpeg,1
-final_dataset/test/dirty/5440.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.48.12 PM (14).jpeg,1
 final_dataset/test/dirty/38bc0dd88047f38ad975b768c9c6bf84c695a8f3.temp.jpeg,1
 final_dataset/test/dirty/b36608155ec21f60f461b8a421f5ba9972754898.temp.jpeg,1
@@ -4483,9 +4421,7 @@ final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.44.12 PM (3).jpeg,1
 final_dataset/test/dirty/dirty_test700025.jpg,1
 final_dataset/test/dirty/2011.full.jpeg,1
 final_dataset/test/dirty/dirty_91.jpg,1
-final_dataset/test/dirty/4637.full.jpeg,1
 final_dataset/test/dirty/BxK5R6PIIAA_rD4.jpeg,1
-final_dataset/test/dirty/1774.full.jpeg,1
 final_dataset/test/dirty/952.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-08 at 2.24.45 PM (8).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.56.50 PM (12).jpeg,1
@@ -4493,21 +4429,18 @@ final_dataset/test/dirty/1626.full.jpeg,1
 final_dataset/test/dirty/dirty_test700421.jpg,1
 final_dataset/test/dirty/arfawrfawer.jpeg,1
 final_dataset/test/dirty/dc6fec5daddbb18e900478e8eba685c1c2a6b029.temp.jpeg,1
-final_dataset/test/dirty/1695.full.jpeg,1
 final_dataset/test/dirty/dirty_test700637.jpg,1
 final_dataset/test/dirty/Cg6WaqIWkAIts7n.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.47.01 PM (1).jpeg,1
 final_dataset/test/dirty/5280.full.jpeg,1
 final_dataset/test/dirty/1094.full.jpeg,1
 final_dataset/test/dirty/dirty_test700193.jpg,1
-final_dataset/test/dirty/1741.full.jpeg,1
 final_dataset/test/dirty/1816.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-25 at 1.00.10 PM (5).jpeg,1
 final_dataset/test/dirty/41298.jpg,1
 final_dataset/test/dirty/20161214fg_0056_1200w.jpg,1
 final_dataset/test/dirty/71355646a85544cb07f8f2d45660f14376edfd8f.temp.jpeg,1
 final_dataset/test/dirty/Basura3-768x1024.jpeg,1
-final_dataset/test/dirty/1802.full.jpeg,1
 final_dataset/test/dirty/9573eeaf923461f00452f611b914ae760de197dc.temp.jpeg,1
 final_dataset/test/dirty/892.full.jpeg,1
 final_dataset/test/dirty/4085.full.jpeg,1
@@ -4538,11 +4471,9 @@ final_dataset/test/dirty/dirty_test900205.jpg,1
 final_dataset/test/dirty/dirty_test00193.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-25 at 1.00.10 PM (7).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.53 AM (4).jpeg,1
-final_dataset/test/dirty/925.full.jpeg,1
 final_dataset/test/dirty/dirty_test300373.jpg,1
 final_dataset/test/dirty/dirty_test900589.jpg,1
 final_dataset/test/dirty/dirty_test201045.jpg,1
-final_dataset/test/dirty/838.full.jpeg,1
 final_dataset/test/dirty/3113.full.jpeg,1
 final_dataset/test/dirty/a1e1ab0a26230b3385a340a6582963057fd3c865.temp.jpeg,1
 final_dataset/test/dirty/837ac9e9f0dd921c94394510f0f9a232e66ff5a5.temp.jpeg,1
@@ -4554,7 +4485,6 @@ final_dataset/test/dirty/basura-702x395.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-17 at 10.23.07 PM.jpeg,1
 final_dataset/test/dirty/dirty_test301441.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.41.49 AM.jpeg,1
-final_dataset/test/dirty/5337.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.44.12 PM (1).jpeg,1
 final_dataset/test/dirty/B5y0oPBIQAIiMIq.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-28 at 11.33.00 AM (2).jpeg,1
@@ -4565,8 +4495,6 @@ final_dataset/test/dirty/dirty_test Image 2020-05-10 at 4.59.14 PM (1).jpeg,1
 final_dataset/test/dirty/dirty_test00025.jpg,1
 final_dataset/test/dirty/dirty_test700037.jpg,1
 final_dataset/test/dirty/3843c2969d73d202f997099052f08fb82f6c8c03.temp.jpeg,1
-final_dataset/test/dirty/1167.full.jpeg,1
-final_dataset/test/dirty/849.full.jpeg,1
 final_dataset/test/dirty/dirty_test300565.jpg,1
 final_dataset/test/dirty/dirty_97.jpg,1
 final_dataset/test/dirty/593319222.jpg,1
@@ -4583,11 +4511,9 @@ final_dataset/test/dirty/dirty_test201069.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.44.11 PM (12).jpeg,1
 final_dataset/test/dirty/dirty_test700181.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.49 AM (1).jpeg,1
-final_dataset/test/dirty/1544.full.jpeg,1
 final_dataset/test/dirty/dirty_test800229.jpg,1
 final_dataset/test/dirty/dirty_test900229.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-27 at 12.31.46 PM (2).jpeg,1
-final_dataset/test/dirty/1772.full.jpeg,1
 final_dataset/test/dirty/f02bbb99dd4487416f2a807f5e4ddc8fda2fcc98.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.07 AM (3).jpeg,1
 final_dataset/test/dirty/1fcf45d3160a516eb0fdbeaafdcbdc74f5d54680.temp.jpeg,1
@@ -4596,7 +4522,6 @@ final_dataset/test/dirty/d39645b9177d79c39156767bedb484e185b67720.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.50 AM (5).jpeg,1
 final_dataset/test/dirty/1222.full.jpeg,1
 final_dataset/test/dirty/4908.full.jpeg,1
-final_dataset/test/dirty/1693.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.47.00 PM (8).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.55 AM (3).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-06 at 6.18.29 PM (1).jpeg,1
@@ -4614,15 +4539,11 @@ final_dataset/test/dirty/dirty_test Image 2020-12-28 at 11.33.00 AM.jpeg,1
 final_dataset/test/dirty/d661e0d26682113951fd1f99bc7c8bdd49a43041.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.55 AM (1).jpeg,1
 final_dataset/test/dirty/4786.full.jpeg,1
-final_dataset/test/dirty/1992.full.jpeg,1
-final_dataset/test/dirty/902.full.jpeg,1
 final_dataset/test/dirty/dirty_94.jpg,1
 final_dataset/test/dirty/dirty_test700961.jpg,1
 final_dataset/test/dirty/b196930b095e25ca605c619a1f5f2bb963b34fa9.temp.jpeg,1
 final_dataset/test/dirty/dirty_test900613.jpg,1
 final_dataset/test/dirty/b0cf2c54e4558b1171d4cb3b92dd7287fab0d964.temp.jpeg,1
-final_dataset/test/dirty/1326.full.jpeg,1
-final_dataset/test/dirty/1110.full.jpeg,1
 final_dataset/test/dirty/4517.full.jpeg,1
 final_dataset/test/dirty/a0eb8667c77f7227a610e2b4f31249c9ebfb538c.temp.jpeg,1
 final_dataset/test/dirty/1568.full.jpeg,1
@@ -4635,7 +4556,6 @@ final_dataset/test/dirty/3498.full.jpeg,1
 final_dataset/test/dirty/850.full.jpeg,1
 final_dataset/test/dirty/0003717600.jpg,1
 final_dataset/test/dirty/dirty_test201081.jpg,1
-final_dataset/test/dirty/2457.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 4.27.40 PM (3).jpeg,1
 final_dataset/test/dirty/dirty_test201057.jpg,1
 final_dataset/test/dirty/dirty_test00625.jpg,1
@@ -4659,7 +4579,6 @@ final_dataset/test/dirty/dirty_test900649.jpg,1
 final_dataset/test/dirty/dirty_test800649.jpg,1
 final_dataset/test/dirty/dirty_test100037.jpg,1
 final_dataset/test/dirty/dirty_test300925.jpg,1
-final_dataset/test/dirty/1836.full.jpeg,1
 final_dataset/test/dirty/dirty_103.jpg,1
 final_dataset/test/dirty/3691.full.jpeg,1
 final_dataset/test/dirty/569c997c85c7c19bc0157b7edf21bc1f6a15ba6e.temp.jpeg,1
@@ -4679,35 +4598,26 @@ final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.44.11 PM (7).jpeg,1
 final_dataset/test/dirty/20160506_contenedores.jpg,1
 final_dataset/test/dirty/dirty_test900265.jpg,1
 final_dataset/test/dirty/dirty_test800517.jpg,1
-final_dataset/test/dirty/1069.full.jpeg,1
 final_dataset/test/dirty/1779.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-28 at 7.40.41 PM.jpeg,1
-final_dataset/test/dirty/4827.full.jpeg,1
 final_dataset/test/dirty/216cc36558e8d5e9f853ef6515e0fabe9d7b0ff2.temp.jpeg,1
 final_dataset/test/dirty/dirty_test100397.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-17 at 8.32.38 PM.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 4.27.40 PM.jpeg,1
-final_dataset/test/dirty/3037.full.jpeg,1
-final_dataset/test/dirty/2611.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-25 at 9.20.22 PM.jpeg,1
 final_dataset/test/dirty/2082.full.jpeg,1
 final_dataset/test/dirty/1612.full.jpeg,1
 final_dataset/test/dirty/8077.jpeg,1
 final_dataset/test/dirty/B5thVl0IYAA-UCe.jpeg,1
 final_dataset/test/dirty/dirty_102.jpg,1
-final_dataset/test/dirty/2928.full.jpeg,1
-final_dataset/test/dirty/625.full.jpeg,1
-final_dataset/test/dirty/908.full.jpeg,1
 final_dataset/test/dirty/baa19532379bedbb5a18e055771f5fc7f9549208.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.54 AM.jpeg,1
 final_dataset/test/dirty/dirty_test701417.jpg,1
 final_dataset/test/dirty/dirty_test200517.jpg,1
-final_dataset/test/dirty/1300.full.jpeg,1
 final_dataset/test/dirty/dirty_100.jpg,1
 final_dataset/test/dirty/dirty_test701165.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.56.50 PM (13).jpeg,1
 final_dataset/test/dirty/dirty_test901597.jpg,1
-final_dataset/test/dirty/1520.full.jpeg,1
 final_dataset/test/dirty/924.full.jpeg,1
 final_dataset/test/dirty/B5yEb81IIAEv4Mn.jpeg,1
 final_dataset/test/dirty/4061.full.jpeg,1
@@ -4715,7 +4625,6 @@ final_dataset/test/dirty/dirty_test200649.jpg,1
 final_dataset/test/dirty/dirty_test200661.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.43.49 AM.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-28 at 11.33.00 AM (1).jpeg,1
-final_dataset/test/dirty/4688.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.44.12 PM (2).jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 4.27.39 PM (4).jpeg,1
 final_dataset/test/dirty/00511_00.jpg,1
@@ -4731,24 +4640,20 @@ final_dataset/test/dirty/3040.full.jpeg,1
 final_dataset/test/dirty/1790.full.jpeg,1
 final_dataset/test/dirty/1273.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.53 AM (7).jpeg,1
-final_dataset/test/dirty/4674.full.jpeg,1
 final_dataset/test/dirty/dirty_test0023.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-25 at 7.42.20 PM.jpeg,1
 final_dataset/test/dirty/dirty_101.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.55 AM (4).jpeg,1
 final_dataset/test/dirty/4d7b8b72cd8cfd0b7cad769e3929e0cc37ba3581.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-27 at 8.25.13 PM (1).jpeg,1
-final_dataset/test/dirty/1995.full.jpeg,1
 final_dataset/test/dirty/1447.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 2.19.44 PM (1).jpeg,1
-final_dataset/test/dirty/1737.full.jpeg,1
 final_dataset/test/dirty/dirty_test901009.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-08 at 2.24.46 PM.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.50 AM (6).jpeg,1
 final_dataset/test/dirty/e8e1d8c9b1181d47b72c23e4afad5919a4b88518.temp.jpeg,1
 final_dataset/test/dirty/BlRRcpaCEAAYlOF.jpeg,1
 final_dataset/test/dirty/dc63690896fd9ce82bb6ad8af2d538100df700e7.temp.jpeg,1
-final_dataset/test/dirty/1939.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 4.27.40 PM (2).jpeg,1
 final_dataset/test/dirty/dirty_test800673.jpg,1
 final_dataset/test/dirty/5567.full.jpeg,1
@@ -4758,12 +4663,10 @@ final_dataset/test/dirty/dirty_test300937.jpg,1
 final_dataset/test/dirty/dirty_test100025.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 8.18.06 AM.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.44.11 PM (11).jpeg,1
-final_dataset/test/dirty/848.full.jpeg,1
 final_dataset/test/dirty/8cc522238ab9498213ca9ca8e01b15efc4ac867e.temp.jpeg,1
 final_dataset/test/dirty/0000109157.jpg,1
 final_dataset/test/dirty/3213.full.jpeg,1
 final_dataset/test/dirty/db33c0d43f84c78c7bcb9e131265a6adf201caf7.temp.jpeg,1
-final_dataset/test/dirty/5329.full.jpeg,1
 final_dataset/test/dirty/5090.full.jpeg,1
 final_dataset/test/dirty/dirty_test800505.jpg,1
 final_dataset/test/dirty/dirty_test900277.jpg,1
@@ -4776,7 +4679,6 @@ final_dataset/test/dirty/dirty_test Image 2020-12-27 at 5.46.09 PM.jpeg,1
 final_dataset/test/dirty/012ed28a1cfd91081dd9f980891f3f14c7a592a9.temp.jpeg,1
 final_dataset/test/dirty/dirty_test100385.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-11 at 12.41.24 AM (2).jpeg,1
-final_dataset/test/dirty/3004.full.jpeg,1
 final_dataset/test/dirty/5dd08b44b0cabbe11c6e1925ba26b9b6fd735163.temp.jpeg,1
 final_dataset/test/dirty/5c5327347ab6733c124a5c3443811766c2c59d1c.temp.jpeg,1
 final_dataset/test/dirty/1767.full.jpeg,1
@@ -4792,13 +4694,11 @@ final_dataset/test/dirty/20160310_imm.png,1
 final_dataset/test/dirty/5293.full.jpeg,1
 final_dataset/test/dirty/dirty_test701405.jpg,1
 final_dataset/test/dirty/1479.full.jpeg,1
-final_dataset/test/dirty/1872.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 4.27.39 PM (2).jpeg,1
 final_dataset/test/dirty/1275.full.jpeg,1
 final_dataset/test/dirty/3931.full.jpeg,1
 final_dataset/test/dirty/dirty_test200505.jpg,1
 final_dataset/test/dirty/fe4399b2eb6d14378d93f573197217a809bef31a.temp.jpeg,1
-final_dataset/test/dirty/2106.full.jpeg,1
 final_dataset/test/dirty/1cc020f8e00dd9f097614bebd9ae470637c15fc8.temp.jpeg,1
 final_dataset/test/dirty/b881c47fa19dc6c21b05fb992dfd54a634bcf51a.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-25 at 12.56.49 PM (9).jpeg,1
@@ -4807,31 +4707,25 @@ final_dataset/test/dirty/559747.JPG,1
 final_dataset/test/dirty/dirty_test901585.jpg,1
 final_dataset/test/dirty/6ac6ff0afe4fc4b23e8e0a0765849a8191b2b56f.temp.jpeg,1
 final_dataset/test/dirty/dirty_test200673.jpg,1
-final_dataset/test/dirty/1993.full.jpeg,1
 final_dataset/test/dirty/4578.full.jpeg,1
-final_dataset/test/dirty/2054.full.jpeg,1
 final_dataset/test/dirty/B5nQw5TCEAABFoo.jpeg,1
 final_dataset/test/dirty/Cg6Waq7WsAEBdtj.jpeg,1
 final_dataset/test/dirty/5504.full.jpeg,1
 final_dataset/test/dirty/5218.full.jpeg,1
-final_dataset/test/dirty/1327.full.jpeg,1
 final_dataset/test/dirty/dirty_test201021.jpg,1
 final_dataset/test/dirty/9895.full.jpeg,1
 final_dataset/test/dirty/e44bc46ece8cd007a86e16f464b9efdcd07e8f7d.temp.jpeg,1
 final_dataset/test/dirty/2075.full.jpeg,1
 final_dataset/test/dirty/0147d80c7487d20476cb6aa2f74981f59b06e569.temp.jpeg,1
-final_dataset/test/dirty/2419.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.55 AM (2).jpeg,1
 final_dataset/test/dirty/8762.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-05-17 at 8.32.39 PM.jpeg,1
 final_dataset/test/dirty/958.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.36.55 AM.jpeg,1
-final_dataset/test/dirty/1853.full.jpeg,1
 final_dataset/test/dirty/1638.full.jpeg,1
 final_dataset/test/dirty/dirty_107.jpg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.40.50 AM (4).jpeg,1
 final_dataset/test/dirty/Aykr8W8CIAAiRQy.jpeg,1
 final_dataset/test/dirty/4089224ac15bdbd0b1a3218143e5772c6a8d21d0.temp.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-08-27 at 3.44.11 PM (13).jpeg,1
-final_dataset/test/dirty/936.full.jpeg,1
 final_dataset/test/dirty/dirty_test Image 2020-12-27 at 12.31.46 PM (3).jpeg,1
