@@ -503,7 +503,6 @@ final_dataset/train/clean/clean_train201477.jpg,0
 final_dataset/train/clean/clean_train03973.jpg,0
 final_dataset/train/clean/clean_36.jpg,0
 final_dataset/train/clean/03157_03.jpg,0
-final_dataset/train/clean/art2822.jpg.png,0
 final_dataset/train/clean/clean_22.jpg,0
 final_dataset/train/clean/clean_train Image 2020-05-08 at 2.21.56 PM (3).jpeg,0
 final_dataset/train/clean/01048_00.jpg,0
@@ -690,7 +689,6 @@ final_dataset/train/clean/01158_02.jpg,0
 final_dataset/train/clean/clean_train02101.jpg,0
 final_dataset/train/clean/01025_02.jpg,0
 final_dataset/train/clean/clean_train Image 2020-05-09 at 2.08.14 PM.jpeg,0
-final_dataset/train/clean/dsc0132_4.jpg.png,0
 final_dataset/train/clean/clean_train Image 2020-10-06 at 3.11.10 PM (1).jpeg,0
 final_dataset/train/clean/clean_train Image 2020-05-11 at 12.41.25 AM (9).jpeg,0
 final_dataset/train/clean/clean_31.jpg,0
@@ -2322,7 +2320,6 @@ final_dataset/train/dirty/dirty_train Image 2020-10-27 at 9.41.00 AM.jpeg,1
 final_dataset/train/dirty/dirty_train900817.jpg,1
 final_dataset/train/dirty/dirty_7.jpg,1
 final_dataset/train/dirty/dirty_train301465.jpg,1
-final_dataset/train/dirty/contenedor_subrayado.png,1
 final_dataset/train/dirty/dirty_train900181.jpg,1
 final_dataset/train/dirty/dirty_train Image 2020-08-11 at 9.54.56 AM (2).jpeg,1
 final_dataset/train/dirty/dirty_train700349.jpg,1
@@ -4366,7 +4363,6 @@ final_dataset/test/dirty/dirty_test00217.jpg,1
 final_dataset/test/dirty/4577.full.jpeg,1
 final_dataset/test/dirty/dirty_test700229.jpg,1
 final_dataset/test/dirty/4c2327943ea54cf90a59fc0252b3d6cd0a21adf8.temp.jpeg,1
-final_dataset/test/dirty/721189.png,1
 final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.10 AM (1).jpeg,1
 final_dataset/test/dirty/5398.full.jpeg,1
 final_dataset/test/dirty/dirty_test900397.jpg,1
@@ -4690,7 +4686,6 @@ final_dataset/test/dirty/dirty_test Image 2020-12-26 at 12.38.08 AM (1).jpeg,1
 final_dataset/test/dirty/dirty_104.jpg,1
 final_dataset/test/dirty/1635.full.jpeg,1
 final_dataset/test/dirty/dirty_test00241.jpg,1
-final_dataset/test/dirty/20160310_imm.png,1
 final_dataset/test/dirty/5293.full.jpeg,1
 final_dataset/test/dirty/dirty_test701405.jpg,1
 final_dataset/test/dirty/1479.full.jpeg,1
