@@ -1,3 +1,9 @@
+CS6140 Street Cleanliness Image Detection
+
+Group members:
+Shubham Bansal
+Vansh Gupta
+
 Labels - 
     Clean - 0
     Dirty - 1
